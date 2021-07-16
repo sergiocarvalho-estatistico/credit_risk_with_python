@@ -1,8 +1,8 @@
-.xlsx
-.pptx
-.csv
-.xls
-.pdf
-.jpg
-.png
-.html
+*.xlsx
+*.pptx
+*.csv
+*.xls
+*.pdf
+*.jpg
+*.png
+*.html

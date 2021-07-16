@@ -1,2 +1,0 @@
-~path/myproject> python --version
-~path/myproject> python -m venv creditscore 
